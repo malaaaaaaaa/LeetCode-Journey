@@ -6,3 +6,4 @@ My codes are not the most best way of solving the problem. This is just for me t
 |---| ----- | -------- | ---- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python%20/0001_TwoSums)| 28/5/2023 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python%20/0141_LinkedListCycle.py)| 28/5/2023 |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0171_ExcelSheetColumnNumber.py)| 28/5/2023 |
