@@ -1,6 +1,15 @@
-# My Leetcode Journey using Python3
+# My Leetcode Journey using Python3 &heart;
 
 My codes are not the most best way of solving the problem. This is just for me to keep track on what I did and how I did it
+
+## Plans for this
+
+In order of what I think is important
+
+Try solving and adding solutions with another language (Java or C++)
+Add another Column for the difficulty of the Leetcode Problem
+
+## Problems and Solutions &hearts;
 
 | # | Title | Solution | Date |
 |---| ----- | -------- | ---- |
