@@ -7,6 +7,7 @@ My codes are not the most best way of solving the problem. This is just for me t
 In order of what I think is important
 
 Try solving and adding solutions with another language (Java or C++)
+
 Add another Column for the difficulty of the Leetcode Problem
 
 ## Problems and Solutions &hearts;
