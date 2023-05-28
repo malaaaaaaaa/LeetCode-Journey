@@ -24,5 +24,7 @@ Add another Column for the difficulty of the Leetcode Problem
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1394_Find_Lucky_Integer_in_an_Array.py)| 28/5/2023 |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1732_Find_the_Highest_Altitude.py)| 28/5/2023 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1768_Merge_Strings_Alternately.py)| 28/5/2023 |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1952_Three_Divisors.py)| 28/5/2023 |
+
 
 <!---   |  | []() | [Python]()| 28/5/2023 |     -->
