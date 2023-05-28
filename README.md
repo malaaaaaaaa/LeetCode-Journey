@@ -10,3 +10,4 @@ My codes are not the most best way of solving the problem. This is just for me t
 | 206 | [Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0206_Reverse_Linked_List.py)| 28/5/2023 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0242_Valid_Anagram.py)| 28/5/2023 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0283_Move_Zeroes.py)| 28/5/2023 |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0392_Is-Subsequence.py)| 28/5/2023 |
