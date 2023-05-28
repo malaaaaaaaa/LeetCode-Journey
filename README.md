@@ -11,3 +11,4 @@ My codes are not the most best way of solving the problem. This is just for me t
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0242_Valid_Anagram.py)| 28/5/2023 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0283_Move_Zeroes.py)| 28/5/2023 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0392_Is-Subsequence.py)| 28/5/2023 |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py)| 28/5/2023 |
