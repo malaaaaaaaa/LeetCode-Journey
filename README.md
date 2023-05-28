@@ -1,4 +1,4 @@
-# My Leetcode Journey using Python3 &heart;
+# My Leetcode Journey using Python3 &hearts;
 
 My codes are not the most best way of solving the problem. This is just for me to keep track on what I did and how I did it
 
