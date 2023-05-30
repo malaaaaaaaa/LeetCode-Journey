@@ -27,4 +27,6 @@ Add another Column for the difficulty of the Leetcode Problem
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1768_Merge_Strings_Alternately.py)| 28/5/2023 |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1952_Three_Divisors.py)| 28/5/2023 |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2037_Minimum_Number_of_Moves_to_Seat_Everyone.py)| 30/5/2023 |
+| 2235  | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2235_Add_Two_Integers.py)| 30/5/2023 |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2390_Removing_Stars_From_a_String)| 30/5/2023 |
 <!---   |  | []() | [Python]()| 30/5/2023 |     -->
