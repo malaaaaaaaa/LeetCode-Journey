@@ -15,7 +15,8 @@ Add another Column for the difficulty of the Leetcode Problem
 | # | Title | Solution | Date |
 |---| ----- | -------- | ---- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0001_TwoSums.py)| 28/5/2023 |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0003_Longest_Substring_Without_Repeating_Characters.py)| 1/6/2023 |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0003_Longest_Substring_Without_Repeating_Characters.py)| 2/6/2023 |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0066_Plus_One.py)| 3/6/2023 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0141_LinkedListCycle.py)| 28/5/2023 |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0171_ExcelSheetColumnNumber.py)| 28/5/2023 |
 | 206 | [Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0206_Reverse_Linked_List.py)| 28/5/2023 |
@@ -35,4 +36,4 @@ Add another Column for the difficulty of the Leetcode Problem
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2469_Convert_the_Temperature.py)| 31/5/2023 |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2656_Maximum_Sum_With_Exactly_K_Elements.py)| 1/6/2023 |
 
-<!---   |  | []() | [Python]()| 1/6/2023 |     -->
+<!---   |  | []() | [Python]()| 3/6/2023 |     -->
