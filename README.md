@@ -22,6 +22,7 @@ Add another Column for the difficulty of the Leetcode Problem
 | 206 | [Reversed Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0206_Reverse_Linked_List.py)| 28/5/2023 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0242_Valid_Anagram.py)| 28/5/2023 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0283_Move_Zeroes.py)| 28/5/2023 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0344_Reverse_String.py)| 3/6/2023 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0392_Is-Subsequence.py)| 28/5/2023 |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.py)| 28/5/2023 |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1394_Find_Lucky_Integer_in_an_Array.py)| 28/5/2023 |
