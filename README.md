@@ -29,6 +29,7 @@ Add another Column for the difficulty of the Leetcode Problem
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1480_Running_Sum_of_1d_Array.py)| 1/6/2023 |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1732_Find_the_Highest_Altitude.py)| 28/5/2023 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1768_Merge_Strings_Alternately.py)| 28/5/2023 |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1837_Sum_of_Digits_in_Base_K.py)| 4/6/2023 |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/1952_Three_Divisors.py)| 28/5/2023 |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2037_Minimum_Number_of_Moves_to_Seat_Everyone.py)| 30/5/2023 |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2235_Add_Two_Integers.py)| 30/5/2023 |
@@ -37,4 +38,4 @@ Add another Column for the difficulty of the Leetcode Problem
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2469_Convert_the_Temperature.py)| 31/5/2023 |
 | 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/2656_Maximum_Sum_With_Exactly_K_Elements.py)| 1/6/2023 |
 
-<!---   |  | []() | [Python]()| 3/6/2023 |     -->
+<!---   |  | []() | [Python]()| 4/6/2023 |     -->
