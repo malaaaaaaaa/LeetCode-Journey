@@ -14,7 +14,7 @@ Add another Column for the difficulty of the Leetcode Problem
 
 | # | Title | Solution | Date |
 |---| ----- | -------- | ---- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0001_TwoSums.py)| 28/5/2023 |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0001_TwoSums.py)<br>[Java](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Java/0001_TwoSums.java)| 28/5/2023 |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0003_Longest_Substring_Without_Repeating_Characters.py)| 2/6/2023 |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0066_Plus_One.py)| 3/6/2023 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/malaaaaaaaa/LeetCode-Journey/blob/main/Python/0141_LinkedListCycle.py)| 28/5/2023 |
